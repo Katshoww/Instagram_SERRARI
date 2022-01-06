@@ -150,4 +150,4 @@ document.addEventListener("DOMContentLoaded", () => {
 * CSS<sub>3</sub>
 * JS
 
-Voir la page web *[https://katshoww.github.io/Instagram_SERRARI/]()*.
+Voir la page web https://katshoww.github.io/Instagram_SERRARI/.
